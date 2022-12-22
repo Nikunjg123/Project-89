@@ -1,0 +1,43 @@
+body
+{
+	background-image: url(1600w-lI44SVUHuJE.webp);
+	background-size: 1700px;
+}
+	#game
+	{
+		color: rgb(13, 235, 228);
+		font-weight: bold;
+		font-family: fantasy;
+		font-size:70px;
+	}
+	.login_div1 , .login_div2
+	{
+		background: rgb(2, 168, 245);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(9, 246, 167);
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
